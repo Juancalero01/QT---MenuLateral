@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Iconos">
+    <file>Iconos/Config.png</file>
+    <file>Iconos/Contraer.png</file>
+    <file>Iconos/Menu.png</file>
+    <file>Iconos/Principal.png</file>
+    <file>Iconos/Usuario.png</file>
+  </qresource>
+</RCC>
